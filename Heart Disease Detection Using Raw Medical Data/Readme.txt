@@ -1,5 +1,12 @@
 Predicting Heart Disease using Machine Learning
 
+Tools and Libraries:
+Python
+NumPy
+pandas
+Matplotlib/Seaborn
+Scikit-Learn
+
 Abstract:
 This project delves into the application of machine learning for heart disease prediction, offering a comprehensive guide from problem definition to model evaluation and interpretation. It leverages the Cleveland heart disease dataset and employs various data exploration, modeling, and evaluation techniques to achieve accurate and interpretable results.
 
@@ -30,14 +37,6 @@ Fine-tune hyperparameters for further performance improvement.
 Reporting and Communication:
 Clearly document the process, findings, and insights.
 Consider visualizations, tables, and clear explanations for effective communication.
-
-Tools and Libraries:
-Python
-NumPy
-pandas
-Matplotlib/Seaborn
-Scikit-Learn
-
 
 Results:
 Achieve accurate heart disease prediction using machine learning models.
