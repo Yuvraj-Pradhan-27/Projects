@@ -1,24 +1,19 @@
 Predicting Heart Disease using Machine Learning
 
 Abstract:
-
 This project delves into the application of machine learning for heart disease prediction, offering a comprehensive guide from problem definition to model evaluation and interpretation. It leverages the Cleveland heart disease dataset and employs various data exploration, modeling, and evaluation techniques to achieve accurate and interpretable results.
 
 Keywords: Machine learning, heart disease prediction, classification, feature importance, cross-validation, data analysis, Scikit-Learn, Python
 
 Problem Definition:
-
 Can we predict the presence of heart disease in individuals based on their clinical parameters using machine learning?
 
 Data:
-
 The Cleveland heart disease dataset from the UCI Machine Learning Repository provides a rich set of features (14 out of 76 originally available) for analysis.
 
 Methodology:
-
 Exploratory Data Analysis (EDA):
 Understand data distribution and relationships using visualizations.
-
 Identify missing values and outliers.
 Investigate feature importance and potential correlations.
 
