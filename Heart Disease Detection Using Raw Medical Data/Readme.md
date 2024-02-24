@@ -1,4 +1,4 @@
-Predicting Heart Disease using Machine Learning
+PREDICTING HEART DISEASE USING MACHINE LEARNING
 
 Tools and Libraries:
 Python
